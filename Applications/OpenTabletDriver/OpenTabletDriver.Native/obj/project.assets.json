@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {},
+    "net5.0/linux-x64": {},
+    "net6.0": {},
+    "net6.0/linux-x64": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net5.0": [],
+    "net6.0": []
+  },
+  "packageFolders": {
+    "/home/gal5elin/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "0.6.0.3",
+    "restore": {
+      "projectUniqueName": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Native/OpenTabletDriver.Native.csproj",
+      "projectName": "OpenTabletDriver.Native",
+      "projectPath": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Native/OpenTabletDriver.Native.csproj",
+      "packagesPath": "/home/gal5elin/.nuget/packages/",
+      "outputPath": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Native/obj/",
+      "projectStyle": "PackageReference",
+      "crossTargeting": true,
+      "configFilePaths": [
+        "/home/gal5elin/Downloads/OpenTabletDriver/nuget.config",
+        "/home/gal5elin/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0",
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        },
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.103/RuntimeIdentifierGraph.json"
+      },
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.103/RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "linux-x64": {
+        "#import": []
+      }
+    }
+  }
+}

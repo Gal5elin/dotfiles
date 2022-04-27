@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bEnLafHCKtAqR+QT7WbQH2CGvhcIeaolwCIcY97wwR2+ZNYgclzpAwX4nCEIj40Fge3UUtcqQogNp/P3DxuFAA==",
+  "success": true,
+  "projectFilePath": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Native/OpenTabletDriver.Native.csproj",
+  "expectedPackageFiles": [
+    "/home/gal5elin/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/gal5elin/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Configurations/bin/Release/net6.0/OpenTabletDriver.Configurations.deps.json
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Configurations/bin/Release/net6.0/OpenTabletDriver.Configurations.dll
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Configurations/bin/Release/net6.0/ref/OpenTabletDriver.Configurations.dll
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Configurations/bin/Release/net6.0/OpenTabletDriver.Configurations.pdb
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Configurations/bin/Release/net6.0/OpenTabletDriver.Plugin.dll
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Configurations/bin/Release/net6.0/OpenTabletDriver.Plugin.pdb
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Configurations/obj/Release/net6.0/OpenTabletDriver.Configurations.csproj.AssemblyReference.cache
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Configurations/obj/Release/net6.0/OpenTabletDriver.Configurations.GeneratedMSBuildEditorConfig.editorconfig
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Configurations/obj/Release/net6.0/OpenTabletDriver.Configurations.AssemblyInfoInputs.cache
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Configurations/obj/Release/net6.0/OpenTabletDriver.Configurations.AssemblyInfo.cs
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Configurations/obj/Release/net6.0/OpenTabletDriver.Configurations.csproj.CoreCompileInputs.cache
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Configurations/obj/Release/net6.0/OpenTabletDriver.Configurations.csproj.CopyComplete
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Configurations/obj/Release/net6.0/OpenTabletDriver.Configurations.dll
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Configurations/obj/Release/net6.0/ref/OpenTabletDriver.Configurations.dll
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Configurations/obj/Release/net6.0/OpenTabletDriver.Configurations.pdb

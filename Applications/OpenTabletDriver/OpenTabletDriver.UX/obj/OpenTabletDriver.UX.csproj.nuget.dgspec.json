@@ -1,0 +1,606 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.UX/OpenTabletDriver.UX.csproj": {}
+  },
+  "projects": {
+    "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Configurations/OpenTabletDriver.Configurations.csproj": {
+      "version": "0.6.0.3",
+      "restore": {
+        "projectUniqueName": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Configurations/OpenTabletDriver.Configurations.csproj",
+        "projectName": "OpenTabletDriver.Configurations",
+        "projectPath": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Configurations/OpenTabletDriver.Configurations.csproj",
+        "packagesPath": "/home/gal5elin/.nuget/packages/",
+        "outputPath": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Configurations/obj/",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "/home/gal5elin/Downloads/OpenTabletDriver/nuget.config",
+          "/home/gal5elin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0",
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Plugin/OpenTabletDriver.Plugin.csproj": {
+                "projectPath": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Plugin/OpenTabletDriver.Plugin.csproj"
+              }
+            }
+          },
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Plugin/OpenTabletDriver.Plugin.csproj": {
+                "projectPath": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Plugin/OpenTabletDriver.Plugin.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.103/RuntimeIdentifierGraph.json"
+        },
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.103/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    },
+    "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Desktop/OpenTabletDriver.Desktop.csproj": {
+      "version": "0.6.0.3",
+      "restore": {
+        "projectUniqueName": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Desktop/OpenTabletDriver.Desktop.csproj",
+        "projectName": "OpenTabletDriver.Desktop",
+        "projectPath": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Desktop/OpenTabletDriver.Desktop.csproj",
+        "packagesPath": "/home/gal5elin/.nuget/packages/",
+        "outputPath": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Desktop/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/gal5elin/Downloads/OpenTabletDriver/nuget.config",
+          "/home/gal5elin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Configurations/OpenTabletDriver.Configurations.csproj": {
+                "projectPath": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Configurations/OpenTabletDriver.Configurations.csproj"
+              },
+              "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Native/OpenTabletDriver.Native.csproj": {
+                "projectPath": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Native/OpenTabletDriver.Native.csproj"
+              },
+              "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver/OpenTabletDriver.csproj": {
+                "projectPath": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver/OpenTabletDriver.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Octokit": {
+              "target": "Package",
+              "version": "[0.50.0, )"
+            },
+            "SharpZipLib": {
+              "target": "Package",
+              "version": "[1.3.3, )"
+            },
+            "StreamJsonRpc": {
+              "target": "Package",
+              "version": "[2.6.121, )"
+            },
+            "System.CommandLine": {
+              "target": "Package",
+              "version": "[2.0.0-beta1.20253.1, )"
+            },
+            "WaylandNET": {
+              "target": "Package",
+              "version": "[0.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.103/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    },
+    "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Native/OpenTabletDriver.Native.csproj": {
+      "version": "0.6.0.3",
+      "restore": {
+        "projectUniqueName": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Native/OpenTabletDriver.Native.csproj",
+        "projectName": "OpenTabletDriver.Native",
+        "projectPath": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Native/OpenTabletDriver.Native.csproj",
+        "packagesPath": "/home/gal5elin/.nuget/packages/",
+        "outputPath": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Native/obj/",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "/home/gal5elin/Downloads/OpenTabletDriver/nuget.config",
+          "/home/gal5elin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0",
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          },
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.103/RuntimeIdentifierGraph.json"
+        },
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.103/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    },
+    "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Plugin/OpenTabletDriver.Plugin.csproj": {
+      "version": "0.6.0.3",
+      "restore": {
+        "projectUniqueName": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Plugin/OpenTabletDriver.Plugin.csproj",
+        "projectName": "OpenTabletDriver.Plugin",
+        "projectPath": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Plugin/OpenTabletDriver.Plugin.csproj",
+        "packagesPath": "/home/gal5elin/.nuget/packages/",
+        "outputPath": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Plugin/obj/",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "/home/gal5elin/Downloads/OpenTabletDriver/nuget.config",
+          "/home/gal5elin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0",
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          },
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.103/RuntimeIdentifierGraph.json"
+        },
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.103/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    },
+    "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.UX/OpenTabletDriver.UX.csproj": {
+      "version": "0.6.0.3",
+      "restore": {
+        "projectUniqueName": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.UX/OpenTabletDriver.UX.csproj",
+        "projectName": "OpenTabletDriver.UX",
+        "projectPath": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.UX/OpenTabletDriver.UX.csproj",
+        "packagesPath": "/home/gal5elin/.nuget/packages/",
+        "outputPath": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.UX/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/gal5elin/Downloads/OpenTabletDriver/nuget.config",
+          "/home/gal5elin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Desktop/OpenTabletDriver.Desktop.csproj": {
+                "projectPath": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Desktop/OpenTabletDriver.Desktop.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Eto.Forms": {
+              "target": "Package",
+              "version": "[2.5.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.103/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    },
+    "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver/OpenTabletDriver.csproj": {
+      "version": "0.6.0.3",
+      "restore": {
+        "projectUniqueName": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver/OpenTabletDriver.csproj",
+        "projectName": "OpenTabletDriver",
+        "projectPath": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver/OpenTabletDriver.csproj",
+        "packagesPath": "/home/gal5elin/.nuget/packages/",
+        "outputPath": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver/obj/",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "/home/gal5elin/Downloads/OpenTabletDriver/nuget.config",
+          "/home/gal5elin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0",
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Configurations/OpenTabletDriver.Configurations.csproj": {
+                "projectPath": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Configurations/OpenTabletDriver.Configurations.csproj"
+              },
+              "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Native/OpenTabletDriver.Native.csproj": {
+                "projectPath": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Native/OpenTabletDriver.Native.csproj"
+              },
+              "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Plugin/OpenTabletDriver.Plugin.csproj": {
+                "projectPath": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Plugin/OpenTabletDriver.Plugin.csproj"
+              }
+            }
+          },
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Configurations/OpenTabletDriver.Configurations.csproj": {
+                "projectPath": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Configurations/OpenTabletDriver.Configurations.csproj"
+              },
+              "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Native/OpenTabletDriver.Native.csproj": {
+                "projectPath": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Native/OpenTabletDriver.Native.csproj"
+              },
+              "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Plugin/OpenTabletDriver.Plugin.csproj": {
+                "projectPath": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Plugin/OpenTabletDriver.Plugin.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "HidSharpCore": {
+              "target": "Package",
+              "version": "[1.2.1.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0-rc.1.21451.13, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.103/RuntimeIdentifierGraph.json"
+        },
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "HidSharpCore": {
+              "target": "Package",
+              "version": "[1.2.1.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0-rc.1.21451.13, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.103/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

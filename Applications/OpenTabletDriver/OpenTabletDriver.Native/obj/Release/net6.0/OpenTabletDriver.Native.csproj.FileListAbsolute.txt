@@ -1,0 +1,12 @@
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Native/bin/Release/net6.0/OpenTabletDriver.Native.deps.json
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Native/bin/Release/net6.0/OpenTabletDriver.Native.dll
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Native/bin/Release/net6.0/ref/OpenTabletDriver.Native.dll
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Native/bin/Release/net6.0/OpenTabletDriver.Native.pdb
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Native/obj/Release/net6.0/OpenTabletDriver.Native.csproj.AssemblyReference.cache
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Native/obj/Release/net6.0/OpenTabletDriver.Native.GeneratedMSBuildEditorConfig.editorconfig
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Native/obj/Release/net6.0/OpenTabletDriver.Native.AssemblyInfoInputs.cache
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Native/obj/Release/net6.0/OpenTabletDriver.Native.AssemblyInfo.cs
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Native/obj/Release/net6.0/OpenTabletDriver.Native.csproj.CoreCompileInputs.cache
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Native/obj/Release/net6.0/OpenTabletDriver.Native.dll
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Native/obj/Release/net6.0/ref/OpenTabletDriver.Native.dll
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Native/obj/Release/net6.0/OpenTabletDriver.Native.pdb

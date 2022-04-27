@@ -1,0 +1,12 @@
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Plugin/bin/Debug/net6.0/OpenTabletDriver.Plugin.deps.json
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Plugin/bin/Debug/net6.0/OpenTabletDriver.Plugin.dll
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Plugin/bin/Debug/net6.0/ref/OpenTabletDriver.Plugin.dll
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Plugin/bin/Debug/net6.0/OpenTabletDriver.Plugin.pdb
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Plugin/obj/Debug/net6.0/OpenTabletDriver.Plugin.csproj.AssemblyReference.cache
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Plugin/obj/Debug/net6.0/OpenTabletDriver.Plugin.GeneratedMSBuildEditorConfig.editorconfig
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Plugin/obj/Debug/net6.0/OpenTabletDriver.Plugin.AssemblyInfoInputs.cache
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Plugin/obj/Debug/net6.0/OpenTabletDriver.Plugin.AssemblyInfo.cs
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Plugin/obj/Debug/net6.0/OpenTabletDriver.Plugin.csproj.CoreCompileInputs.cache
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Plugin/obj/Debug/net6.0/OpenTabletDriver.Plugin.dll
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Plugin/obj/Debug/net6.0/ref/OpenTabletDriver.Plugin.dll
+/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Plugin/obj/Debug/net6.0/OpenTabletDriver.Plugin.pdb

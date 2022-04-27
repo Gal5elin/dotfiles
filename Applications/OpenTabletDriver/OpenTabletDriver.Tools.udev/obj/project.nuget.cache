@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "XPbgluTeBE2NTInmBkyfLHbjulz8xra407sctGcUFFrhY4qyA5zVE2HlfHKuou7tpv1VhrWlipvSwMsWQHCMSA==",
+  "success": true,
+  "projectFilePath": "/home/gal5elin/Downloads/OpenTabletDriver/OpenTabletDriver.Tools.udev/OpenTabletDriver.Tools.udev.csproj",
+  "expectedPackageFiles": [
+    "/home/gal5elin/.nuget/packages/microsoft.csharp/4.4.1/microsoft.csharp.4.4.1.nupkg.sha512",
+    "/home/gal5elin/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/home/gal5elin/.nuget/packages/system.commandline/2.0.0-beta1.21216.1/system.commandline.2.0.0-beta1.21216.1.nupkg.sha512",
+    "/home/gal5elin/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/home/gal5elin/.nuget/packages/udev.net/1.0.0/udev.net.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
